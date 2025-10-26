@@ -8,7 +8,7 @@ Executando o app Streamlit (Windows PowerShell)
 
 ```powershell
     streamlit run ./Desafio-Bonus/app.py
-    streamlit tun app.py
+    streamlit run app.py
 ```
 
 # Desafio-Bonus — Primordial Ducks Catalog and Drone Control
