@@ -1,0 +1,76 @@
+[
+  {
+    "id": "duck-001",
+    "drone": {
+      "serial": "DR-1001",
+      "brand": "AeroX",
+      "manufacturer": "AeroX Inc",
+      "country": "USA"
+    },
+    "height": "6.0 ft",
+    "weight": "220 lb",
+    "location": {
+      "city": "Manaus",
+      "country": "Brazil",
+      "latitude": -3.1019,
+      "longitude": -60.025
+    },
+    "gps_precision": "5 yd",
+    "status": "transe",
+    "heart_bpm": 130,
+    "mutations": 8,
+    "superpower": {
+      "name": "Tempestade Elétrica",
+      "description": "gera descargas elétricas em area",
+      "classification": "bélico"
+    }
+  },
+  {
+    "id": "duck-002",
+    "drone": {
+      "serial": "DR-2002",
+      "brand": "GeoScan",
+      "manufacturer": "Geo Labs",
+      "country": "Brazil"
+    },
+    "height": "120 cm",
+    "weight": "12000 g",
+    "location": {
+      "city": "Rio de Janeiro",
+      "country": "Brazil",
+      "latitude": -22.95,
+      "longitude": -43.17
+    },
+    "gps_precision": "15 m",
+    "status": "hibernacao profunda",
+    "heart_bpm": null,
+    "mutations": 3,
+    "superpower": null
+  },
+  {
+    "id": "duck-003",
+    "drone": {
+      "serial": "DR-3003",
+      "brand": "SkyEye",
+      "manufacturer": "SkyTech",
+      "country": "UK"
+    },
+    "height": "2.5 m",
+    "weight": "80000 g",
+    "location": {
+      "city": "Inverness",
+      "country": "UK",
+      "latitude": 57.4778,
+      "longitude": -4.2247
+    },
+    "gps_precision": "30 cm",
+    "status": "desperto",
+    "heart_bpm": null,
+    "mutations": 20,
+    "superpower": {
+      "name": "Olhos Laser",
+      "description": "dispara lasers em linha reta",
+      "classification": "alto risco"
+    }
+  }
+]
